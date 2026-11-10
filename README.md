@@ -25,7 +25,7 @@ Este site foi construído do zero, sem frameworks pesadas, focando na performanc
 
 ## 🌐 Ver o Site Online
 O portfólio está publicado e pode ser visitado em:
-👉 **[https://teu-username.github.io/portfolio-bernardo/](https://bernardo2012[Bernardo Quintas Lino _ Engenheiro Informático1.html](https://github.com/user-attachments/files/34654211/Bernardo.Quintas.Lino._.Engenheiro.Informatico1.html)
+👉 **[https://bernardo2012.github.io/portfolio-bernardo/](https://bernardo2012[Bernardo Quintas Lino _ Engenheiro Informático1.html](https://github.com/user-attachments/files/34654211/Bernardo.Quintas.Lino._.Engenheiro.Informatico1.html)
 .github.io/portfolio-bernardo/)**
 *(Não te esqueças de alterar o link acima para o teu link real depois de ativares o GitHub Pages).*
 
